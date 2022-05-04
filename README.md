@@ -20,6 +20,8 @@ bridge can get dev.to users' articles and let them deploy their articles to the 
 
 The frontend is built by using vue3 and ant-design-vue. The backend is built by Appwrite which is a self-hosted backend-as-a-service platform that gives developers all the APIs required to build any application.
 
+[bridge-appwrite](https://github.com/skyf0cker/bridge-appwrite)
+
 permanent storage is provided by [arweave](https://www.arweave.org/) team. Deploying articles to arweave needs an arweave wallet.
 Bridge now only support [Arconnect](https://www.arconnect.io/) wallet.
 
